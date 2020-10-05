@@ -1,0 +1,19 @@
+#Роли
+
+TOKEN = 'NzYyNjU2MjUwNTAwMzQ5OTYz.X3sU-w.oED3A59GHEQEf53PX0hMauN-g0M'
+
+POST_ID = 762661321639854110
+
+ROLES = {
+    '🧱': 762371792588374046, #minecraft
+    '🔒': 762373236490108938, #theescapist2
+    '🚬': 762372914103975936, #gta
+    '🔫': 762372194688696410, #csgo
+    '💎': 762372385886044160, #garrysmod
+    '🔪': 762372527804252201, #amongus
+    '✔️': 762374078526390302, #auth
+}
+
+EXCROLES = ()
+
+MAX_ROLES_PER_USER = 100
